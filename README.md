@@ -1,4 +1,6 @@
-![logo](https://github.com/israr8090/israr8090/blob/main/israr-baner.png)
+<h1 align="center">
+ <img src="https://github.com/israr8090/israr8090/blob/main/israr-baner.png" />
+</h1>
 <h1 align="center">Hi 👋, I'm Mohd Israr</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
