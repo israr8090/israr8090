@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning backend development **Rect.js MongoDb ExpressJs Node.js**
 
-- 👨‍💻 All of my projects are available at [https://mdisrarportfolio.netlify.app/](https://mdisrarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mdisrarportfolio.netlify.app/](https://israr-folio.netlify.app/)
 
 - 📫 How to reach me **erisrar0@gmail.com**
 
